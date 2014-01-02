@@ -1,10 +1,10 @@
 module.exports = (grunt) ->
 	grunt.initConfig
 		csc:
+			options:
+				basedir: '.',
+				outdir: 'bin'
 			all:
-				options:
-					basedir: '.',
-					outdir: 'bin'
 				modules: [
 					{
 						name: 'mod1',
