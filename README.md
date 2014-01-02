@@ -47,7 +47,7 @@ You could find sample [Gruntfile](https://github.com/sergeyt/grunt-csc/blob/mast
 
 ### Options
 
-The sample options with comments:
+The sample options:
 
 ```js
 {
@@ -57,7 +57,7 @@ The sample options with comments:
 
 ### Module Definition
 
-The sample module definition with comments:
+The sample module definition:
 
 ```js
 {
