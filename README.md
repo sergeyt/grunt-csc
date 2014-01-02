@@ -32,7 +32,7 @@ In your Gruntfile add a section named `csc` to the data object passed into `grun
 grunt.initConfig({
   csc: {
     options: {
-      // csc options here
+      // global csc options here
     },
     all: {
       modules: [
@@ -42,6 +42,8 @@ grunt.initConfig({
   },
 })
 ```
+
+You could find sample [Gruntfile](https://github.com/sergeyt/grunt-csc/blob/master/demo/Gruntfile.coffee) in [demo](https://github.com/sergeyt/grunt-csc/tree/master/demo) folder.
 
 ### Options
 
