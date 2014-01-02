@@ -32,7 +32,7 @@ module.exports = (grunt) ->
 			options:
 				no_tabs: {level: 'ignore'}
 				indentation: {level: 'ignore'}
-			all: ['*.coffee', 'test/*.coffee']
+			all: ['*.coffee', 'test/*.coffee', 'demo/*.coffee']
 
 		grunt.loadNpmTasks 'grunt-contrib-jshint'
 		grunt.loadNpmTasks 'grunt-coffeelint'

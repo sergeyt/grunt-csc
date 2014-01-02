@@ -1,7 +1,7 @@
 {
   "name": "grunt-csc",
   "version": "0.0.0",
-  "description": "Grunt task to compile c# code.",
+  "description": "A grunt plugin to compile c# assemblies.",
   "license": "MIT",
   "main": "index.js",
   "repository": {
@@ -10,6 +10,7 @@
   },
   "keywords": [
     "grunt",
+    "gruntplugin",
     "c#"
   ],
   "author": "Sergey Todyshev <stodyshev@gmail.com>",
