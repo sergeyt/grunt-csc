@@ -24,16 +24,16 @@
     "lodash": "~2.4.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": "~0.4"
   },
   "devDependencies": {
-    "grunt": "~0.4.0",
-    "grunt-contrib-jshint": "~0.7.1",
+    "grunt": "~0.4",
+    "grunt-contrib-jshint": "~0.10",
     "grunt-npm": "~0.0.2",
-    "grunt-bump": "~0.0.7",
-    "grunt-auto-release": "~0.0.2",
-    "grunt-coffeelint": "0.0.8",
-    "grunt-cli": "~0.1.11"
+    "grunt-bump": "~0.0.14",
+    "grunt-auto-release": "~0.0.6",
+    "grunt-coffeelint": "0.0.10",
+    "grunt-cli": "~0.1"
   },
   "scripts": {
     "lint": "grunt lint",
