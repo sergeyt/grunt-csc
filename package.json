@@ -28,11 +28,11 @@
   },
   "devDependencies": {
     "grunt": "~0.4",
-    "grunt-contrib-jshint": "~0.10",
+    "grunt-contrib-jshint": "^1.0.0",
     "grunt-npm": "~0.0.2",
-    "grunt-bump": "~0.0.14",
+    "grunt-bump": "^0.7.0",
     "grunt-auto-release": "~0.0.6",
-    "grunt-coffeelint": "0.0.10",
+    "grunt-coffeelint": "0.0.15",
     "grunt-cli": "~0.1"
   },
   "scripts": {
