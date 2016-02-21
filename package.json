@@ -15,7 +15,8 @@
   ],
   "author": "Sergey Todyshev <stodyshev@gmail.com>",
   "contributors": [
-    "Sergey Todyshev <stodyshev@gmail.com>"
+    "Sergey Todyshev <stodyshev@gmail.com>",
+    "gruntjs-updater <updater@gruntjs.com>"
   ],
   "dependencies": {
     "csc.js": "0.0.5",
